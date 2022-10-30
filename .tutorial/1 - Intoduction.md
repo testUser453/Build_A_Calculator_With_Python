@@ -6,6 +6,7 @@ Throughout your time in this Repl, you will be learning how to build your own te
 
 ### Materials Needed:
 1. A compatible device to run this Repl or a compatible IDE that can execute Python files and run Python commands
-2. This tutorial
+2. Basic Python skills (recommended but not required)
+3. This tutorial
 
 Now, move on to the Welcoming the user page.

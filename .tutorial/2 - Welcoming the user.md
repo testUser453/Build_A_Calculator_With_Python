@@ -25,7 +25,7 @@ Now that you understand what we have to do, let's do it!
 4. Understand: The reason why our print command looks like this is because this shows that it is now ready to accept an input of a string in the double quotes so that it can print the string in the double quotes
 5. After this, you can go ahead and type in any welcome message you would like in the double quotes. For example if I wanted to simply type in 'Hello' as my welcome message, my print statement would look like this: print("Hello")
 6. Understand: A good welcome statement would introduce the user to the program. For example, a good welcome statement would be: Welcome to the simple calculator.
-7. The final product should look similar to this
+7. Your first line of code in this Repl should look something like <a href="https://github.com/testUser453/Build_A_Calculator_With_Python/blob/main/ForCreator(Don't_Edit!)/ExampleCode/ExWelcomeUser.py">this </a>
 
 <p>Congrats! You have successfully completed the Welcoming the user chapter! Go ahead and move on to the next chapter: Getting Input</p>
 
