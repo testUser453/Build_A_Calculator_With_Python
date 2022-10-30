@@ -20,4 +20,7 @@ Since we've seen the example above, let's go ahead and try to get input from the
 3. Next, underneath your first Input statment, go ahead and write a second Input statement: no2 = int(input('Input your second number here:' ))
 4. Go ahead and run this program. Although they aren't doing anything other than storing the value in the variable, see how the input statements work and predict how we can use these variables and values to perform other tasks and functions.
 5. Modifications: If you would like to create a custom variable name or want to make the user prompt appear differently, go ahead and change the program and have some fun!
-6. 
+6. Your program should look similar to <a href="https://github.com/testUser453/Build_A_Calculator_With_Python/blob/main/ForCreator(Don't_Edit!)/ExampleCode/ExGetInput.py">this
+</a>
+
+Great Job! You have completed the Getting Input chapter! Move on to the next chapter: What Operation?
