@@ -1,1 +1,0 @@
-print("Welcome to my calculator program! This program was built in the Python programming language!")
