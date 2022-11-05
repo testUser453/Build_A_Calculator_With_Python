@@ -7,7 +7,8 @@ print("The four main operations are addition (a), subtraction (s), multiplicatio
 
 op = input("Which operation would you like to perform: addition(a), subtraction (s), multiplication (m), and division (d)?: ")
 
-if op == 'a': print(no1 + no2)
+if op == 'a': 
+  print(no1 + no2)
 
 elif op == 's':
   print(no1 - no2)
