@@ -11,4 +11,6 @@ Just to be clear, the video that is called the "tutorial video" of this repl is 
 2. Basic Python skills (recommended but not required)
 3. This tutorial
 
+Before you do anything else, go ahead and delete all the code in the main.py file. The code that is currently in the main.py file is for cover page purposes and must be deleted when following the tutorial so that you can go ahead and type all the commands in by yourself.
+
 Now, move on to the Welcoming the user chapter.
