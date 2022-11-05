@@ -20,4 +20,4 @@ elif op == 'd':
   print(no1 / no2)
 
 else:
-  print("You didn't add an elgible operation symbol")
+  print("You didn't add an elgible operation symbol, rerun the program using an elgible symbol")
