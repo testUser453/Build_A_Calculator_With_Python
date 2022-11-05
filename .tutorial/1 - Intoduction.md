@@ -9,4 +9,4 @@ Throughout your time in this Repl, you will be learning how to build your own te
 2. Basic Python skills (recommended but not required)
 3. This tutorial
 
-Now, move on to the Welcoming the user page.
+Now, move on to the Welcoming the user chapter.
