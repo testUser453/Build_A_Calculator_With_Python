@@ -16,4 +16,7 @@ We will mainly be using 4 if and else statements: one for addition, one for subt
 4. Now for our multiplication statement (type in this command): elseif op == 'm': print(no1 * no2)
 5. Last but not least our division statement (type in this command): elseif op == 'd': print(no1 / no2)
 6. Although it is not required, there is one more thing we can do to make our program nicer. We can add an error message just incase the user puts in a wrong operation (instead of a, s, m, and d). Can you guess how to do this? To be honest, the answer is very simple. We can just add an else statement at the end of all the if and elseif statements we have previously written. This is how the else statement would look like: else: print("You did not put an elgible operation symbol, rerun the program using an elgible symbol.")
-7. 
+7. Your main.py file should look similar to <a href="https://github.com/testUser453/Build_A_Calculator_With_Python/blob/main/ForCreator(Don't_Edit!)/ExampleCode/4-ExPerformingCalculations.py">this
+</a>
+
+Congratulations! You have completed the entirety of this build a calculator tutorial! Move on to the next chapter: Final Words
